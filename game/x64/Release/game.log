@@ -1,0 +1,336 @@
+﻿  Fruits.cpp
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Fruits.cpp(37,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Fruits.cpp(38,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  game.cpp
+  Hedgehog.cpp
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Hedgehog.cpp(39,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Hedgehog.cpp(40,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Player.cpp
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(19,27): warning C4244: '-=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(20,21): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(32,28): warning C4244: '-=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(33,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(37,28): warning C4244: '-=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(38,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(55,28): warning C4244: '+=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(56,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(59,28): warning C4244: '-=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(60,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(75,27): warning C4244: '+=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(76,21): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(87,35): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(88,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(91,36): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(92,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(110,28): warning C4244: '+=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(111,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(115,35): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(116,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(130,27): warning C4244: '-=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(131,21): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(142,28): warning C4244: '-=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(143,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(146,28): warning C4244: '-=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(147,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(164,28): warning C4244: '+=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(165,20): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(168,28): warning C4244: '-=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(169,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(186,27): warning C4244: '+=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(187,21): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(198,28): warning C4244: '-=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(199,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(202,34): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(203,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(220,28): warning C4244: '+=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(221,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(224,28): warning C4244: '+=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(225,22): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(367,30): warning C4244: '-=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(377,30): warning C4244: '+=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(386,30): warning C4244: '-=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(395,30): warning C4244: '+=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(410,26): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(411,21): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(414,27): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(415,21): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(418,21): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(419,26): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(422,21): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(423,27): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(496,19): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(497,19): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(503,49): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(503,34): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(509,52): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(509,36): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(512,52): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(512,36): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(536,18): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(537,18): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(651,25): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\game\Player.cpp(652,25): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Snake.cpp
+  Generating code
+  9 of 268 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  game.vcxproj -> C:\Users\kosta\Documents\AUEB\3ο ΕΞΑΜΗΝΟ 2020-2021\Προγραμματισμός Υπολογιστών με C++\game\bin\game.exe
